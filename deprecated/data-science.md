@@ -7,7 +7,7 @@ Suggestions:
 - Projects are listed at the end of each Tier, you should consider them assigned at the beginning of the Tier, and due at the end - so work on them alongside the books and courses as you work your way through a Tier.
 - For any project, feel free to use Python or R. Python is introduced earlier in the guide so it's likely you'll use it nearly exclusively for the earlier projects. It would be a good idea to lean more heavily on R in the latter projects to ensure you have substantial practice in both.
 - Make a point of building your GitHub profile during your study so that over time you show a history of data science projects.
-- If you haven't already, begin blogging about what you're learning on Medium (or elsewhere). Try to focus on tutorials for topics you've learned well that might be helpful to others.
+- If you haven't already, begin blogging about what yourning on Medium (or elsewhere). Try to focus on tutorials for topics you've learned well that might be helpful to others.
 
 **Note:** All items should have a free to audit option. There are two Algorithms courses which require a book purchase (Cormen), but I have provided alternate courses which do not.
 
