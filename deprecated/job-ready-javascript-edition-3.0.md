@@ -1,22 +1,6 @@
-# Get Job ready - JavaScript Edition - Version 3.0
+# Learning JavaScript
 
-A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
-
-- [Tier 0 - Prep](#tier-0---prep)
-- [Tier 1 - The Basics](#tier-1---the-basics)
-- [Tier 2 - Intro to Programming](#tier-2---intro-to-programming)
-- [Tier 3 - Add Complexity](#tier-3---add-complexity)
-- [Tier 4 - Practice](#tier-4---practice)
-- [Tier 5 - Wrap everything up and prep for interviews](#tier-5---wrap-everything-up-and-prep-for-interviews)
-- [What now?](#what-now-)
-- [FAQ for this guide](#faq-for-this-guide)
-  - [Why is it so much longer than the original Job Ready Guide?](#why-is-it-so-much-longer-than-the-original-job-ready-guide)
-  - [Why so much Math and Algorithms?](#why-so-much-math-and-algorithms)
-  - [Where should I deploy my code?](#where-should-i-deploy-my-code)
-  - [Why the change in Project selections?](#why-the-change-in-project-selections)
-  - [Do you have a list of helpful links to point me in the right direction if I need a productive break, or need to consult the official docs while I'm working through all this?](#do-you-have-a-list-of-helpful-links-to-point-me-in-the-right-direction-if-i-need-a-productive-break--or-need-to-consult-the-official-docs-while-i-m-working-through-all-this)
-
----
+An updated version of P1xt's deprecated [JavaScript 3.0 Guide](https://github.com/P1xt/p1xt-guides/blob/master/deprecated/job-ready-javascript-edition-3.0.md).
 
 ## Tier 0 - Prep
 
@@ -24,17 +8,13 @@ A guide primarily focused on Frontend development, but including just enough of 
 
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
 
-- [ ] Start working on [Khan Academy](https://www.khanacademy.org/math) math sections daily. Begin wherever your current knowledge lies, and progress alongside the rest of the guide (aiming to cover [Algebra I
-      ](https://www.khanacademy.org/math/algebra), [
-      Algebra II
-      ](https://www.khanacademy.org/math/algebra2), [
-      Trigonometry
-      ](https://www.khanacademy.org/math/trigonometry) and [
-      Precalculus
-      ](https://www.khanacademy.org/math/precalculus)).
-- [ ] Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
-- [ ] Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
-- [ ] Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
+- [ ] [Khan Academy - Algebra I](https://www.khanacademy.org/math/algebra)
+- [ ] [Khan Academy - Algebra II](https://www.khanacademy.org/math/algebra2)
+- [ ] [Trigonometry](https://www.khanacademy.org/math/trigonometry)
+- [ ] [Precalculus](https://www.khanacademy.org/math/precalculus)
+- [ ] [Git Videos](https://git-scm.com/videos)
+- [ ] [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
+- [ ] Sign up for [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) and work through it alongside the rest of the guide.
 
 ---
 
@@ -150,79 +130,3 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ] Project: Create and polish your Resume/CV.
 - [ ] Project: Study and complete all [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank
 - [ ] Project: Continue honing your skills as you interview. Prioritize contributing to open source. Look at the 'official docs' section of the FAQ at the end of this guide and begin studying any or all of them.
-
----
-
-## What now?
-
-- If you want to move on to Data Science - hit the [Data Science Guide](./data-science.md)
-- If you preferred the Algorithms and Data Structures - hit the [CS-WD Guide](./cs-wd.md)
-- If you mostly enjoyed the Web Development - hit the [WD-CS Guide](./wd-cs.md)
-
----
-
-## FAQ for this guide
-
-### Why is it so much longer than the original Job Ready Guide?
-
-What I've observed over the past 9 months is two phenomena, the first being that many "self-supplemented" with additional beginner projects and resources while working through YDKJS, so I expanded on the beginner section to alleviate the "but what else should I be doing" question. The second is that the most successful learners also supplemented with more involved projects towards the end of the guide, so I added more intricate/advanced projects to meet that need.
-
-### Why so much Math and Algorithms?
-
-It's not THAT much math, just through Precalculus so you won't feel so behind the curve when you want to push beyond just "Job Ready" and tackle more involved programming projects. The algorithms -- I've added them to ensure you're prepared and confident you can handle anything you might encounter in an interview.
-
-### Where should I deploy my code?
-
-For all projects - store your code on GitHub, GitLab or BitBucket (GitHub preferred if you want it to later be seen by potential employers) and for web projects deploy the code on the web using the service of your choice ([GitHub](https://pages.github.com/) or [GitLab](https://about.gitlab.com/features/pages/) projects or [Surge.sh](http://surge.sh/) are ideal for frontend only projects, while Heroku is a free alternative for backend/fullstack).
-
-### Why the change in Project selections?
-
-To provide a bit more guidance in selecting a variety of projects that will involve a variety of front end development work (animations, media, etc).
-
-### Do you have a list of helpful links to point me in the right direction if I need a productive break, or need to consult the official docs while I'm working through all this?
-
-Yes, yes I do:
-
-- For when you need a quick/fun productive break that teaches you how to use CSS to layout a site (revisit this section in Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.)
-  - [CSS Diner](https://flukeout.github.io/)
-  - [FlexBox Defense](http://www.flexboxdefense.com/)
-  - [FlexBox Froggy](http://flexboxfroggy.com/)
-  - [Grid Garden](http://cssgridgarden.com/)
-  - [FlexBox Zombies](http://geddski.teachable.com/p/flexbox-zombies)
-- For when you need a quick/fun productive break in which you also practice JavaScript
-  - [Untrusted](https://alexnisnevich.github.io/untrusted/)
-  - [Elevator Saga](http://play.elevatorsaga.com/)
-  - [Screeps](https://screeps.com)
-- For when you need assets/ideas
-  - [pixabay](https://pixabay.com/)
-  - [Unsplash](https://unsplash.com/)
-  - [Pexels](https://www.pexels.com/)
-  - [LibreStock](http://librestock.com/)
-  - [Google Fonts](https://fonts.google.com/)
-  - [FlatIcon's Free Icon Sets](https://www.flaticon.com/packs?license=selection&order_by=1)
-- Official Docs
-  - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
-  - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
-  - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
-  - [Sass](http://sass-lang.com/guide) - supercharged CSS
-  - [Node.js](https://nodejs.org/en/docs/) - should be your primary reference for building backend projects
-  - [Express](https://expressjs.com/) - an excellent framework to accompany Node.js on the backend
-  - [MongoDB](https://docs.mongodb.com/) - for storing data
-  - [Mongoose](http://mongoosejs.com/) - access to MongoDB from Node.js made easy(er)
-  - [Passport.js](http://passportjs.org/) - remember this link when you have to setup a login system
-  - [D3](https://d3js.org/) - for creating awesome graphs and charts
-  - [Angular](https://angular.io/) - option for creating single page apps on the frontend
-  - [React](https://reactjs.org/) - option for creating single page apps on the frontend
-  - [Vue](https://vuejs.org/) - option for creating single page apps on the frontend
-  - [Redux](http://redux.js.org/) - for managing state in a single page app
-  - [ngrx](http://ngrx.github.io/) - reactive programming in Angular applications
-  - [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview) - reactive JavaScript
-  - [Mocha](https://mochajs.org/) - venture into testing
-  - [Karma](https://karma-runner.github.io/1.0/index.html) - venture into testing
-  - [Jest](https://facebook.github.io/jest/) - venture into testing
-  - [Webpack](https://webpack.github.io/) - module bundler for use in your build process (so you can minify your HTML/CSS/JavaScript among other things and deliver an optimized build to production)
-  - [Babel](http://babeljs.io/) - makes the new JavaScript work on old browsers (or node versions for that matter)
-  - [Gulp](https://gulpjs.com/) - for automating your workflow
-  - [ESLint](https://eslint.org/) - for helping to keep your code clean
-  - [Prettier](https://prettier.io/) - more help keeping your code clean
-  - [Travis](https://travis-ci.org/) - continuous deployment (how to trigger a build/deploy whenever you commit your changes via git)
